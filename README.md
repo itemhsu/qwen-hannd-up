@@ -1,4 +1,4 @@
-# qwen-hannd-up
+# qwen-hands-up
 A hands up guide with qwen local 
 ## Requirement
 | 項目          | 指令             | 結果 |
